@@ -8,3 +8,11 @@ __pycache__/
 .last_checked
 .gitconfig
 .ipynb_checkpoints/
+*.csv
+.DS_Store
+*.mov
+*.pdf
+*.html
+*.azw3
+*.epub
+cpdf
